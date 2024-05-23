@@ -8,3 +8,12 @@ ul li{
 h1{
     color: red;
 }
+.box{
+    height: 600px;
+    width: 750px;
+    border: 2pc solid black;
+    border-radius: 3px 3px 3px 3px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
